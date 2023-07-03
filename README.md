@@ -10,6 +10,7 @@ Surname: Allows only alphabetic characters.
 Email: Validates the email format using a regular expression pattern.
 Password: Must be at least 8 characters long and include at least one uppercase letter, one lowercase letter, one digit, and one special character.
 Confirm Password: Must match the password field.
+
 If any of the fields are not valid, an error message will be displayed next to the respective field. The form will only be submitted if all fields are valid.
 
 Confirmation Page
