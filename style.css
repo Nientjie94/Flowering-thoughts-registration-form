@@ -44,6 +44,13 @@ p {
     /*transform: translate(-50%, -50%);*/
     z-index: 9999;
 }
+@media (max-width: 767px) {
+    .modal-content {
+        background-color: ivory;
+    .modal-body {
+        background-color: ivory;
+}
+
 
 #register-button {
     background-color: olivedrab;
